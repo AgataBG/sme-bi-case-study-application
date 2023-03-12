@@ -37,5 +37,5 @@ For this final step you are expected to upload a workbook with a finalized repor
 
 To create your finalized report or dashboard, complete the template `vm-exercises.md`. 
 
-The dashboard is in the exercises folder.
-Important: dashboard has AUTOSIZE and FIXED versions (I prefer to look at the fixed one. It's optimized for 1280x720 desktops).
+**The dashboard is in the exercises folder.
+Important: dashboard has AUTOSIZE and FIXED versions (I prefer to look at the fixed one. It's optimized for 1280x720 desktops).**
