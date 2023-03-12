@@ -37,5 +37,5 @@ For this final step you are expected to upload a workbook with a finalized repor
 
 To create your finalized report or dashboard, complete the template `vm-exercises.md`. 
 
-**The dashboard is in the exercises folder.
+**The dashboard is in the exercises folder (direct link: https://github.com/AgataBG/sme-bi-case-study-application/blob/master/exercises/Case%20Study%20Supply%20Chain%20-%20application%20process%20-%20Step%203%20-%20demo%20dashboard%20-%20ABG.twbx)
 Important: dashboard has AUTOSIZE and FIXED versions (I prefer to look at the fixed one. It's optimized for 1280x720 desktops).**
