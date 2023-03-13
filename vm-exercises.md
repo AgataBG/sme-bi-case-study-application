@@ -13,8 +13,8 @@
 
 ### Files
 
-- [X] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
-- [X] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix`
+- [X] **Initial**: Add file to the `exercises/`  folder with the name as `shipment.twbx'.
+- [X] **Solution**: Add file to the `exercises/`  folder with the name as `shipment-sol.twbx'.
 
 ### Learning Objective
 
@@ -93,7 +93,7 @@ ELSEIF [____]-[____]>=5 THEN '....' END`
 ## Finalized Workbook
 
 ### Files
-- [X] You can upload your final workbook in the exercises folder as `ex-final-sol.twbx` or `ex-final-sol.pbix`.
+- [X] You can upload your final workbook in the exercises folder as `shipment-sol.twbx'.
 
 ### Explanation & Description
 - Understanding of various Tableau functions and the need to create a set of calculations before arriving to a meaningful KPI. 
