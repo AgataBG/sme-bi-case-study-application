@@ -13,8 +13,8 @@
 
 ### Files
 
-- [X] **Initial**: Add file to the `exercises/`  folder with the name as `shipment.twbx'.
-- [X] **Solution**: Add file to the `exercises/`  folder with the name as `shipment-sol.twbx'.
+- [X] **Initial**: Add file to the `exercises/`  folder with the name as `shipment.twbx`.
+- [X] **Solution**: Add file to the `exercises/`  folder with the name as `shipment-sol.twbx`.
 
 ### Learning Objective
 
