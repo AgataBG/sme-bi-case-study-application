@@ -83,7 +83,7 @@ ELSEIF [____]-[____]>=5 THEN '....' END`
 - To order the stacked areas, drag the items on the legend in the right order.
 
 ### Exercise question:
-- **Question**: What was the % of "Delay (5>= days) Order Item Quantity in October 2017?
+- **Question**: What was the % of "Delay (>=5 days) Order Item Quantity in October 2017?
 - **Answer**: 13.66%
 
 ### End goal:
