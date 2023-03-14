@@ -44,7 +44,7 @@ Use function `MAKEDATE()` and convert the two newly created dimensions to contin
 
 **STEP 2:**
 
-Visualize the monthly `Order Item Quantity` volumes and present it as a line chart using a continuous date dimension.
+Visualize the monthly `Order Item Quantity` volumes by order date and present it as a line chart using a continuous date dimension.
 
 **HINT:**
 
